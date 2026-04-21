@@ -1,2 +1,2 @@
 
-// Intentionally empty wrapper target.
+// Empty wrapper target for linking + dependency aggregation.
