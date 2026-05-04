@@ -25,7 +25,7 @@ dependencies: [
 
 Enable the `-ObjC` flag in Xcode: click on your project settings, go to **Build Settings**, search for **Other Linker Flags** and add `-ObjC`.
 
-## License
+## License Terms
 
 By integrating the InMobi-iOS-SDK, you agree to comply and be bound by the [End-User License Agreement](https://support.inmobi.com/monetize/sdk-documentation/inmobi-sdk-license) for InMobi Software Product.
 
