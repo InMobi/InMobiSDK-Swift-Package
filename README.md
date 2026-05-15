@@ -5,7 +5,7 @@ InMobi iOS SDK now officially supports installation via [Swift Package Manager](
 ## Requirements
 
 - iOS 12.0+
-- Xcode 12 or later (Swift tools 5.3+)
+- Xcode 16 or later (Swift tools 5.3+)
 
 ## Installation (Xcode)
 
